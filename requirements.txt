@@ -1,0 +1,5 @@
+transformers
+auto-gptq
+llama-cpp-python
+
+faster-whisper
